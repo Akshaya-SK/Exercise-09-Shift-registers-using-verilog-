@@ -77,9 +77,7 @@ endmodule
 
 ### Program 2:
 ```
-Program for  Implementation-of Shift-registers-using-verilog-
-Developed by: H.Syed Abdul Wasih
-RegisterNumber:  212221240057
+
 
 mmodule PISO(Clk,Pin,load,so);
 input load,Clk;
@@ -112,9 +110,7 @@ endmodule
 ### Program 3:
 
 ```
-Program for  Implementation-of Shift-registers-using-verilog-
-Developed by: H.Syed Abdul Wasih
-RegisterNumber:  212221240057
+
 
 module PIPO (Po,Pi,clk);
 input clk;
